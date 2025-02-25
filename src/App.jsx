@@ -28,7 +28,7 @@ function App() {
       {/* <ThemeChanger/> */}
       {/* <ScrollIndicator url={"https://dummyjson.com/products?limit=100"}/> */}
       {/* <Tabtest/> */}
-      <Githubfinder/>
+      {/* <Githubfinder/> //not completed */}
     </>
   )
 }
