@@ -10,6 +10,7 @@ import ThemeChanger from "./component/Tree_view/ThemeChanger/index.jsx"
 import ScrollIndicator from "./component/Scroll-Indicator/index.jsx"
 import Tabtest from "./component/custome-tabs/tab-test.jsx"
 import Githubfinder from "./component/Github-profile-Finder/index.jsx"
+import SearchAutoComplete from "./component/search-autocompleteWithAI/index.jsx"
 function App() {
 
   return (
@@ -29,6 +30,7 @@ function App() {
       {/* <ScrollIndicator url={"https://dummyjson.com/products?limit=100"}/> */}
       {/* <Tabtest/> */}
       {/* <Githubfinder/> //not completed */}
+      <SearchAutoComplete/>
     </>
   )
 }
